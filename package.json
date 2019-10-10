@@ -1,0 +1,23 @@
+{
+  "name": "jack-donaghy-quotes",
+  "version": "0.0.0",
+  "description": "An API for get random Jack Donaghy quotes",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ljyockey/jack-donaghy-quotes.git"
+  },
+  "author": "Leo Yockey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ljyockey/jack-donaghy-quotes/issues"
+  },
+  "homepage": "https://github.com/Ljyockey/jack-donaghy-quotes#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
