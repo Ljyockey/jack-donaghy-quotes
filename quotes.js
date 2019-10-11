@@ -8,7 +8,7 @@ module.exports = quotes = [
     'Weird in a good way. Like going to the gym drunk.',
     'Okay, in my defense, every April 22nd I honor Richard Nixon\'s death by getting drunk and making some unpopular decisions.',
     'Men need alcohol. It gives us the ability to hit on women and then later when we\'re married, to tune them out.',
-    'can promise you this weekend will be filled with staring out windows while holding a glass of scotch.',
+    'I can promise you this weekend will be filled with staring out windows while holding a glass of scotch.',
     'We produce more failed pilots than the French Air Force.',
     'Never go with a hippie to a second location',
     'I once claimed, “I am God” during a deposition',
